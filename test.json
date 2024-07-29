@@ -1,0 +1,11 @@
+{
+    "user":    
+        [
+            {
+                "name": "subhash",
+                "age": "22",
+                "dob": "07/06/2002",
+                "gender": "male"
+            }
+        ]
+}
